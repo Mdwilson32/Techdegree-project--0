@@ -1,2 +1,2 @@
-# Techdegree-project -0
- Sample Techdegree project
+# Techgdgree-project-0
+Sample Techdegree project
