@@ -1,2 +1,2 @@
-# Techdgree-project-0(Matt)
+# Techdgree Project 0(Matt)
 Sample Techdegree project
